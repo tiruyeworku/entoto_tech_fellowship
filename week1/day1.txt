@@ -1,0 +1,7 @@
+1.command line 
+2.directory 
+3.introduction to programming 
+4.front_back end
+5.Drawing Ellipse
+6.Wengi is awsome
+7. And she is strong
